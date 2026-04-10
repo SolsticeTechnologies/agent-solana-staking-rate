@@ -1,0 +1,9 @@
+{
+  "skills": {
+    "entries": {
+      "solana-staking-rate": {
+        "enabled": true
+      }
+    }
+  }
+}
